@@ -1,5 +1,5 @@
 # Name of the workflow
-name: Deploy new version 
+name: Deploy new version
 
 # Define the trigger event(s)
 # Only deploy when a new tag is pushed ('push:tags:') or manually (with 'workflow_dispatch:')
